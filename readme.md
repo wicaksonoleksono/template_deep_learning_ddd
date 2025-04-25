@@ -1,1 +1,1 @@
- Template for experiment on machine learning , kinda uses DDD architechture w/o the interface because its for research and experimenting, you can add interface for deployment and testing (but testing redudant since there is already a test case in crisp-dm pipeline) 
+ Template for experiment on machine learning , kinda uses DDD architechture w/o the interface because its for research and experimenting, you can add interface for deployment and testing for parser is not yet available 
